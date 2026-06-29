@@ -6,7 +6,7 @@
 ## Components
 #### Hardware
     * Raspberry Pi Zero 2 W
-    * RFID Reader MFRC522 
+    * RFID Reader RC522
     * RFID Stickers (13.56MHz)
     * Speaker
     * Raspberry Pi Zero 2 W Power Cable
