@@ -17,3 +17,10 @@
 ####  With the second edition of this model, I decided to cut the model horizontally rather than vertically. This way, the design looks more seamless rather than a very noticeable line down the middle of the model's face. 
 #### I learned that holes and divots tend to get smaller during the printing stage due to the filament. So in order to account for that, I made the holes a tad wider than the tabs connected to the head 
 #### The head and body both have internal cavities within them to house the hardware components inside.
+
+## Fixes Made in Cura
+#### When configuring the model to be sliced in Ultimaker Cura, this time I made sure to add supports to the buildplate and add a brim on the head for example just to add extra protection for the small tabs protruding at the bottom where it connects to the body.
+#### The infill levels were kept at 0-5% to ensure that the internal cavities were not filled in
+
+## The Final Capybara Print
+#### This time the model was perfectly intact, no sag, the head and body fit together seamlessly. A small divot had to be carved out at the back of the head for the power cable to come out. 
