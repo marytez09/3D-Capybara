@@ -1,8 +1,7 @@
-# 3D Model Process
-#### In this project, there were a total of four 3D models created and printed. A Capybara, Spider, Beetle, and Ladybug. 
-#### This page will explain the steps taken starting from the initial planning all the way to the final 3D printed models. This project took a lot of trial and error, this documentation will go through all the hiccups encountered, what was learned during the process, and how it was tweaked towards the final result.
+# 3D Capybara Process
+#### This page will explain the steps taken starting from the initial planning all the way to the final 3D capybara model. This model took a lot of trial and error, this documentation will go through all the hiccups encountered, what was learned during the process, and how it was tweaked towards the final result.
 
-## The First Version (Capybara)
+## The First Version 
 #### When creating the design for this project, I wanted to go for a low poly plush aesthetic. Being my first time designing a model that will eventually house components, my initial thoughts were to keep the model as simple and low poly as possible. 
 #### The hardware and model were both measured in millimeters, this was to ensure that the components are to fit inside of the model the hardware components perfectly encapsulated inside
 #### The two blocks inside the model are based off of measurements from the actual hardware components that will be housed inside. I kept these blocks as reference throughout the modeling stage to make sure the components were still able to fit when thickening the walls. 
@@ -14,7 +13,7 @@
 #### This was my first trial of printing the model and internal shelves together. This was my first time using ultimaker cura and had learned that utilizing supports in the configuration stage is essential for keeping the filament from sagging. This model was printed without the use of supports which resulted in the lego pieces and model itself to lag down and not connect properly.
 #### Due to the model not having any supports during the printing stage, it resulted in filament sag and a very noticeable hole down the middle of the model where they are to connect. I concluded that there needed to be a design change, as well as a change in the configuration of how the model is printed in Ultimaker Cura. 
 
-## Version Two (Final Capybara)
+## Version Two (Final)
 ####  With the second edition of this model, I decided to cut the model horizontally rather than vertically. This way, the design looks more seamless rather than a very noticeable line down the middle of the model's face. 
 #### I learned that holes and divots tend to get smaller during the printing stage due to the filament. So in order to account for that, I made the holes a tad wider than the tabs connected to the head 
 #### The head and body both have internal cavities within them to house the hardware components inside.
