@@ -20,3 +20,16 @@
     * Blender
     * Ultimaker Cura
     * Procreate
+
+## Project Overview
+#### This project was developed for a client, in which custom 3D models were requested, sketched out, and produced. 
+### My Contributions:
+    * Product planning and concept development
+    * Blender modeling and hardware encapsulated design
+    * 3D printing configuration using UltiMaker Cura (model slicing)
+    * Project documentation 
+### Client Contributions:
+    * Raspberry Pi hardware integration
+    * RFID implementation
+    * Software configuration
+    * Spotify API integration
