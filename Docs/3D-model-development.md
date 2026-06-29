@@ -1,0 +1,3 @@
+## 3D Model Process
+#### In this project, there were a total of four 3D models created and printed. A Capybara, Spider, Beetle, and Ladybug. 
+#### This page will explain the steps taken starting from the initial planning all the way to the final 3D printed models. This project took a lot of trial and error, this documentation will go through all the hiccups encountered, what was learned during the porcess, and how it was tweaked towards the final result.
