@@ -28,4 +28,5 @@
 #### This project required several Python packages to be installed via Raspberry Pi OS command line. 
 
 ### Library:
+* **python3-dev** - contains header files needed to build Python extensions.
     
