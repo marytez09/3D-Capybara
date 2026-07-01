@@ -1,4 +1,4 @@
-# Harware to Software Integration
+# Hardware to Software Integration
 #### The following section documents the the hardware integration process used in this project. This includes the components used, the wiring configuration, as well as the transition to software configuration. 
 ### Components
 * **Raspberry Pi** - The main controller that runs the Spotify software and read RFID tags. 
@@ -16,7 +16,7 @@
 
 #### The cables are connected using the standard RC522 wiring configuration.
 
-#### Incorporate USB powered speakers, these can either be plugged into the heaadphone jack of the Raspberry Pi, or in a separate outlet.
+#### Incorporate USB powered speakers, these can either be plugged into the headphone jack of the Raspberry Pi, or in a separate outlet.
 
 #### The RFID stickers placed underneath the bug model.
 
