@@ -1,5 +1,5 @@
 # 3D Capybara Process
-#### This page will explain the steps taken starting from the initial planning all the way to the final 3D capybara model. This model took a lot of trial and error, this documentation will go through all the hiccups encountered, what was learned during the process, and how it was tweaked towards the final result.
+#### This is a full documentation of the steps taken starting from the initial planning all the way to the final 3D capybara model. This model took a lot of trial and error, this documentation will go through all the hiccups encountered, what was learned during the process, and how it was tweaked towards the final result.
 
 ## The First Version 
 #### When creating the design for this project, I wanted to go for a low poly plush aesthetic. Being my first time designing a model that will eventually house components, my initial thoughts were to keep the model as simple and low poly as possible. 
