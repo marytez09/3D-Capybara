@@ -29,5 +29,5 @@
 * **spidev** - A tool that allows Python to interact with the physical hardware (Raspberry Pi and RC522 RFID). 
 * **mfrc522** - A library that allows the Raspberry Pi to read RFID UID stickers. 
 
-#### Create a script in the Thonny IDE application called read.py (preinstalled on the Raspberry Pi)
+#### Create a script in the Thonny Python IDE called read.py (preinstalled on the Raspberry Pi)
 **Script Source:** [(Scripts/read.py)](https://github.com/marytez09/3D-Capybara/blob/main/Scripts/read.py)  
