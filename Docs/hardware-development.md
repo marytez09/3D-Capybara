@@ -28,3 +28,4 @@
 * **python3-pip** - Package installer and library management 
 * **spidev** - A tool that allows Python to interact with the physical hardware (Raspberry Pi and RC522 RFID). 
 * **mfrc522** - A library that allows the Raspberry Pi to read RFID UID stickers. 
+
