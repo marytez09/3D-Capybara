@@ -13,12 +13,12 @@
 * Dupont Cables
 #### Software
 * Raspberry Pi OS (Bullseye)
-* Thony Python IDE
+* Thonny Python IDE
 * Spotify Web API
 #### Design
 * Ender Pro 3D Printer
 * Blender
-* Ultimaker Cura
+* UltiMaker Cura
 * Procreate
 
 ## Project Overview
