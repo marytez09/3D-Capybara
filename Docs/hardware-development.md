@@ -11,4 +11,13 @@
 
     * Dupont Cables (Female to Female Jumper Wires) - Used to wire the RFID reader to the Raspberry Pi. 
 
-## The Hardware
+## The Hardware Setup
+#### Solder the header pins into the RFID RC522. These pins will be used to connect the dupont cables from the RC522 to the Raspberry Pi. 
+
+#### The cables are connected using the standard RC522 wiring configuration.
+
+#### Incorporate USB powered speakers, these can either be plugged into the heaadphone jack of the Raspberry Pi, or in a separate outlet.
+
+#### The RFID stickers placed underneath the bug model.
+
+## Software Integration 
