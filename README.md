@@ -22,7 +22,7 @@
     * Procreate
 
 ## Project Overview
-#### This project was developed for a client, in which custom 3D models were requested, sketched out, and produced. 
+#### This project was developed in collaboration with a client in which I was commissioned to design and print custom 3D models. 
 ### My Contributions:
     * Product planning and concept development
     * Blender modeling and hardware encapsulated design
