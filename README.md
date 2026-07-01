@@ -12,24 +12,24 @@
 * Raspberry Pi Zero 2 W Power Cable
 * Dupont Cables
 #### Software
-    * Raspberry Pi OS (Bullseye)
-    * Thony Python IDE
-    * Spotify Web API
+* Raspberry Pi OS (Bullseye)
+* Thony Python IDE
+* Spotify Web API
 #### Design
-    * Ender Pro 3D Printer
-    * Blender
-    * Ultimaker Cura
-    * Procreate
+* Ender Pro 3D Printer
+* Blender
+* Ultimaker Cura
+* Procreate
 
 ## Project Overview
 #### This project was developed in collaboration with a client in which I was commissioned to design and print custom 3D models. 
 ### My Contributions:
-    * Product planning and concept development
-    * Blender modeling and hardware encapsulated design
-    * 3D printing configuration using UltiMaker Cura (model slicing)
-    * Project documentation 
+* Product planning and concept development
+* Blender modeling and hardware encapsulated design
+* 3D printing configuration using UltiMaker Cura (model slicing)
+* Project documentation 
 ### Client Contributions:
-    * Raspberry Pi hardware integration
-    * RFID implementation
-    * Software configuration
-    * Spotify API integration
+* Raspberry Pi hardware integration
+* RFID implementation
+* Software configuration
+* Spotify API integration
